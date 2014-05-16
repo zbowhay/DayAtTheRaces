@@ -1,0 +1,11 @@
+C:\Users\Zac\documents\visual studio 2010\Projects\DayAtTheRaces\DayAtTheRaces\bin\Debug\DayAtTheRaces.exe
+C:\Users\Zac\documents\visual studio 2010\Projects\DayAtTheRaces\DayAtTheRaces\bin\Debug\DayAtTheRaces.pdb
+C:\Users\Zac\documents\visual studio 2010\Projects\DayAtTheRaces\DayAtTheRaces\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Zac\documents\visual studio 2010\Projects\DayAtTheRaces\DayAtTheRaces\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Zac\documents\visual studio 2010\Projects\DayAtTheRaces\DayAtTheRaces\obj\x86\Debug\DayAtTheRaces.csproj.GenerateResource.Cache
+C:\Users\Zac\documents\visual studio 2010\Projects\DayAtTheRaces\DayAtTheRaces\obj\x86\Debug\DayAtTheRaces.exe
+C:\Users\Zac\documents\visual studio 2010\Projects\DayAtTheRaces\DayAtTheRaces\obj\x86\Debug\DayAtTheRaces.pdb
+C:\Users\Zac\documents\visual studio 2010\Projects\DayAtTheRaces\DayAtTheRaces\bin\Debug\DayAtTheRaces.exe.manifest
+C:\Users\Zac\documents\visual studio 2010\Projects\DayAtTheRaces\DayAtTheRaces\bin\Debug\DayAtTheRaces.application
+C:\Users\Zac\documents\visual studio 2010\Projects\DayAtTheRaces\DayAtTheRaces\obj\x86\Debug\DayAtTheRaces.exe.manifest
+C:\Users\Zac\documents\visual studio 2010\Projects\DayAtTheRaces\DayAtTheRaces\obj\x86\Debug\DayAtTheRaces.application
